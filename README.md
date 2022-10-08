@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Hanna</h1>
 <h3 align="center">I'm a "Computer Science and Management" student at the University of Bologna</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" width="400" align="right">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <a href="https://twitter.com/awni_youssef" target="blank"><img src="https://img.shields.io/twitter/follow/awni_youssef?logo=twitter&style=for-the-badge" alt="awni_youssef" /></a> </p>
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/awni_youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awni_youssef" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youssef hanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef hanna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/musica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musica" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mussida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mussida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
