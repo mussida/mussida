@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Native, React and Angular**
 
-- 🌱 I’m currently learning ** Angular **
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **awniyoussef3@gmail.com**
 
