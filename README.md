@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/awni_youssef" target="blank"><img src="https://img.shields.io/twitter/follow/awni_youssef?logo=twitter&style=for-the-badge" alt="awni_youssef" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Application**
+- 🔭 I’m currently working on **React Native, React and Angular**
 
-- 🌱 I’m currently learning **React Native, Android Studio**
+- 🌱 I’m currently learning ** Angular **
 
 - 📫 How to reach me **awniyoussef3@gmail.com**
 
