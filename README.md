@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- ⚡ Actually developing my fist **Social Network App** !
+
 - 📫 How to reach me **awniyoussef3@gmail.com**
 
 - ⚡ Fun fact **When I don't program I love to cook**
