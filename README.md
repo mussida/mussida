@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- ⚡ Actually developing my fist **Social Network App** !
+- ⚡ Actually developing my first **Social Network App** !
 
 - 📫 How to reach me **awniyoussef3@gmail.com**
 
