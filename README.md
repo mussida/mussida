@@ -4,4 +4,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mussida&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mussida&theme=dark&show_icons=true)
 
-![Snake animation](https://github.com/mussida/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mussida/mussida/blob/output/github-contribution-grid-snake.svg)
