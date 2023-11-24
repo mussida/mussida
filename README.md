@@ -17,5 +17,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mussida&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mussida1&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mussida&layout=compact)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussida&" alt="mussida" /></p>
