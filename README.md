@@ -18,4 +18,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mussida&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mussida&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?mussida=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussida&" alt="mussida" /></p>
