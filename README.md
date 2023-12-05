@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Hanna</h1>
 
-My name is Youssef and I am 23 years old. I graduated from the University of Bologna with a degree in "Computer Science for Management." I am currently a full stack developer at Bitapp and have undertaken a master's degree in computer 
-science. 
+Bachelor's degree in Computer Science for Management.
+Currently full stack developer and master's degree in computer science. 
 
 ## Some statistics
 
